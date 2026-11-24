@@ -31,6 +31,18 @@ A full-stack developer from the Philippines. I build fast, accessible web apps e
 | Field Capture | An invisible field-level tracker, a validating Cloudflare Worker and Supabase views that show where applicants drop off. |
 | Cookie Consent Tool | A framework-agnostic GDPR consent module with Google Consent Mode v2 and audit-logged decisions. |
 
+## 💼 Experience
+
+**Software Developer** — Perulatus GmbH
+- Built the digital care application form solo: v4 in PHP, then v5 on Cloudflare Workers, which won its A/B test and took over all landing-page traffic
+- Built the Pharmacy Portal (PHP 8, Supabase, Zoho Creator) and white-label portals for ARZ Care and Noventi
+- Worked across the EnkianCare platform: contributed to the guidance site, built the MDK assessment prep course, and set up the shop's Cloudflare Workers environment and Stripe integration
+- Built field-level form analytics: an invisible tracker, a validating Worker, and drop-off views in Supabase
+
+**Software Developer Intern** — DOST (Department of Science & Technology)
+- Developed a ticketing system for employee device requests, integrated with the existing inventory system
+- Monitored system activity via Cloudflare, identifying suspicious IPs and writing security reports
+
 ## 🤝 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arpl-portfolio.vercel.app)
