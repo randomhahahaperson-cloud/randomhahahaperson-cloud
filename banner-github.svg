@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Code, TypeScript, React, Supabase and Cloudflare icons joined by dotted lines">
+  <rect width="1200" height="480" fill="#0f1b2d"/>
+  <g fill="none" stroke="#5b6b82" stroke-width="2" stroke-dasharray="3 5">
+    <line x1="335" y1="240" x2="410" y2="240"/>
+    <line x1="490" y1="240" x2="560" y2="240"/>
+    <line x1="640" y1="240" x2="710" y2="240"/>
+    <line x1="790" y1="240" x2="865" y2="240"/>
+  </g>
+
+  <!-- </> -->
+  <g fill="none" stroke="#e0763a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="280,215 255,240 280,265"/>
+    <line x1="305" y1="205" x2="292" y2="275"/>
+    <polyline points="318,215 343,240 318,265" transform="translate(-8 0)"/>
+  </g>
+
+  <!-- TypeScript -->
+  <rect x="415" y="205" width="70" height="70" rx="10" fill="#3178c6"/>
+  <text x="474" y="266" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">TS</text>
+
+  <!-- React -->
+  <g transform="translate(600 240)" fill="none" stroke="#61dafb" stroke-width="3.5">
+    <ellipse rx="38" ry="14"/>
+    <ellipse rx="38" ry="14" transform="rotate(60)"/>
+    <ellipse rx="38" ry="14" transform="rotate(120)"/>
+    <circle r="6" fill="#61dafb" stroke="none"/>
+  </g>
+
+  <!-- Supabase -->
+  <path d="M757 200 L725 248 H752 L742 282 L776 230 H749 Z" fill="#3ecf8e"/>
+
+  <!-- Cloudflare -->
+  <path d="M875 262 H945 a16 16 0 0 0 -4 -31 a26 26 0 0 0 -49 -6 a18 18 0 0 0 -17 37 Z" fill="#f48120"/>
+
+  <text x="600" y="380" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#8fa1ba">interface → api → database → platform</text>
+</svg>
